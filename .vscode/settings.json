@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\yagoh\\OneDrive\\Escritorio\\UNI\\INFOR\\2o\\1er cuatri\\Programación III\\PrograIII-YagoHouizot-PA1\\biblioteca11.jar"
+    ]
+}
