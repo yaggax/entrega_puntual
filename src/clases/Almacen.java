@@ -1,11 +1,8 @@
 package clases;
-import clases.Libro;
-
-
 public class Almacen {
 
-    int tam = 0,i;
-    public float velocidad;
+    private int tam = 0,i;
+    public float velocidad=1;
     public Libro[] libros;
     //public Libro[] libros= new Libro[tam];
     /*
@@ -31,7 +28,10 @@ public class Almacen {
     }
     }
 
-    
-    
-     
+    public int getTam() {
+        return tam;
+    }
 }
+
+
+

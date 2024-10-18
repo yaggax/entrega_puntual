@@ -12,7 +12,6 @@ public class Autor {
         this.premio = premio;
     }
 
-
     public String getNombre() {
         return nombre;
     }

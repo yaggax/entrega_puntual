@@ -1,5 +1,4 @@
 package clases;
-import clases.Autor;
 
 public class Libro {
 
